@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86a02b117507f634d93ea1849e7934fa
+timeCreated: 1478126153
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - matTouch: {fileID: 2100000, guid: 582d2cfd4842c954d82eba0d037da054, type: 2}
+  - matDefault: {fileID: 2100000, guid: ca951a36bb708fa4596ab58ae6551bed, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
