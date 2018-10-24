@@ -32,11 +32,11 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
             {
                 case BuildTarget.Android:
                 case BuildTarget.iOS:
-                case BuildTarget.PSM: 
-                case BuildTarget.Tizen: 
-                case BuildTarget.WSAPlayer: 
+                case BuildTarget.PSM:
+                case BuildTarget.Tizen:
+                case BuildTarget.WSAPlayer:
                     EditorUtility.DisplayDialog("Mobile Input",
-                                                "You have enabled Mobile Input. You'll need to use the Unity Remote app on a connected device to control your game in the Editor.",
+                                                "You enabled Mobile Input. You'll need to use Unity Remote app on a connected device to control the game in the Editor.",
                                                 "OK");
                     break;
 
@@ -93,10 +93,10 @@ namespace UnityStandardAssets.CrossPlatformInput.Inspector
             {
                 BuildTargetGroup.Android,
                 BuildTargetGroup.iOS,
-                BuildTargetGroup.PSM, 
+                BuildTargetGroup.PSM,
                 BuildTargetGroup.SamsungTV,
                 BuildTargetGroup.Tizen,
-                BuildTargetGroup.WSA 
+                BuildTargetGroup.WSA
             };
 
 
